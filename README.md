@@ -20,7 +20,10 @@
 
 <br>
 
-<img src="img/standard.gif" alt="MuhammadRifqi" width="50%" align="center" />
+<div align="center">
+  <img src="img/standard.gif" alt="MuhammadRifqi" width="50%" />
+</div>
+
 
 
 > ## **🧠 Interests** 
