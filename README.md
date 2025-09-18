@@ -1,3 +1,5 @@
+[🎧 Click here to listen to my playlist!](https://open.spotify.com/playlist/https://open.spotify.com/playlist/0yUx2Q3QHb6dRlrzm813YG?si=f06adf8531484ce6)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
