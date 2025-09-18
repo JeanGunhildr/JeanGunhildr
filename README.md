@@ -1,14 +1,14 @@
 # Hii There, Welcome To My Profile 🤪👋
 
-
+<br>
 
 ![MuhammadRifqi](img/github-header-banner.png)
 
-
+<br>
 
 📌 I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well.  
 
-
+<br>
 
 <!-- ![image](https://gists-readme.yizack.com/api/pin?user={JeanGunhildr}&id={AmpuMart}&owner=true) -->
 
@@ -16,7 +16,7 @@
 
 <img src="img/standard.gif" alt="MuhammadRifqi" width="100%" />
 
-
+<br>
 
 > ## **🧠 Interests**
 -  Machine Learning   
@@ -43,8 +43,9 @@
 - I like to write down ideas that come to my mind on a piece of paper  
 - I enjoy discovering new things 
 
-
-
+<br>
+---
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
@@ -52,7 +53,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<br>
+---
+<br>
 
 # 🛠️ Skills
 > ## **Designs :**
@@ -75,7 +78,9 @@
 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<br>
+---
+<br>
 
 # 🧩 Github Stats
 
@@ -93,16 +98,17 @@
 # ⭐ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<br>
 
 # 🤝 Learn Partner 
 ![image](https://img.shields.io/badge/Udemy-AE1BCB?style=for-the-badge&logo=Udemy&logoColor=white) ![image](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-
+<br>
 
 # 🌐 Social Media
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![link](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 
-
+<br>
 
 # 🖼️ Portofolio
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
