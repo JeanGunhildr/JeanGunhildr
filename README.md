@@ -26,11 +26,15 @@
 -  Motion Graphics   
 -  Writing   
 
+---
+
 > ## **📚 Currently Learning**
 -  Python   
 -  Blender   
 -  React JS   
 -  Figma   
+
+---
 
 > ## **🎬 Favorite Films**
 -  Interstellar   
@@ -39,9 +43,13 @@
 -  Code Geass  
 -  Monster  
 
+---
+
 > ## **⚡ Fun Facts**
 - I like to write down ideas that come to my mind on a piece of paper  
 - I enjoy discovering new things 
+
+---
 
 <br>
 
