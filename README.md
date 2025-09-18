@@ -16,6 +16,9 @@ Currently, I'm learning the <strong>Python</strong> programming language and exp
 I'm also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
+</p>
 ![image](img/github-header-banner.png)
 
 
@@ -54,7 +57,9 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 
 ---
 
-<img src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif" width="100%">
+<p align="center">
+  <img src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif">
+</p>
 
 ---
 
