@@ -92,9 +92,12 @@
 
 
 
-![Rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" alt="Rifqi's GitHub Stats" width="100%" />
 
-![Rifqi's Github streak](https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false)<br/> 
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" alt="Rifqi's GitHub Streak" width="100%" />
+
 
 
 
