@@ -89,25 +89,33 @@
 <br>
 
 
-# 🧩 Github Stats
+<h1 align="center">🧩 Github Stats</h1>
+
+<br>
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" alt="Rifqi's GitHub Stats" width="100%" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" alt="Rifqi's GitHub Streak" width="100%" />
 
-<br>
-
-# ⭐ Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
 
+<br>
+
+---
 
 <br>
 
 # 🤝 Learn Partner 
 ![image](https://img.shields.io/badge/Udemy-AE1BCB?style=for-the-badge&logo=Udemy&logoColor=white) ![image](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
+---
+
 # 🌐 Social Media
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![link](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
+
+---
 
 # 🖼️ Portofolio
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
