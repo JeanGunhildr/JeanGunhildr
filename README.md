@@ -104,7 +104,7 @@
 
 <br>
 
-<h1 align="center">Others</h1>
+<h1 align="center">✨ Others</h1>
 
 <br>
 
