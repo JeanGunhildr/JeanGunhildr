@@ -25,7 +25,6 @@
         I am also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
       </p>
     </td>
-
     <!-- Spotify -->
     <td style="vertical-align: top; width: 50%; text-align: center;">
       <h2>Let's Listen to Music w/ Me</h2>
