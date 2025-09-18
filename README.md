@@ -4,16 +4,13 @@
 
 📌 I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well. 
 
+<br>
+
 <img src="img/standard.gif" alt="MuhammadRifqi" width="100%" />
 
 <br>
 
-<h2>
-
 > **🧠 Interests** 
-
-</h2 >
-
 -  Machine Learning   
 -  Web Development   
 -  Game Development   
