@@ -112,12 +112,12 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 
 <div>
 <div>
-  <img align="left" width="39%" src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif">
+  <img align="left" width="44%" src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif">
 </div>
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="60%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="60.1%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="55%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="55.1%" />
 </p>
 </div>
 
