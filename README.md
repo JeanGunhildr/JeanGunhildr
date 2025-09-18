@@ -6,11 +6,27 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
+</picture>
+
+<br> 
+
+---
+
+<br>
+
 <img src="img/standard.gif" alt="MuhammadRifqi" width="100%" />
 
 <br>
 
-> **🧠 Interests** 
+---
+
+<br>
+
+> ## **🧠 Interests** 
 -  Machine Learning   
 -  Web Development   
 -  Game Development   
@@ -41,23 +57,11 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
-
----
-
-<br>
 
 # 🛠️ Skills
 > ## **Designs :**
 
 ![image](https://img.shields.io/badge/Alight%20Motion-57C129?style=for-the-badge&logo=Alight%20Motion&logoColor=white) ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<!-- ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  -->
 <br>
 
 > ## **Programing Languages :**
@@ -88,7 +92,7 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" alt="Rifqi's GitHub Streak" width="100%" />
 
-
+<br>
 
 
 <!-- ### 🏆 GitHub Trophies
@@ -96,6 +100,10 @@
 
 # ⭐ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<br>
+
+---
 
 <br>
 
