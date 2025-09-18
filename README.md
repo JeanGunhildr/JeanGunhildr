@@ -96,8 +96,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="50%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="50.1%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="48.1%" />
 </p>
 
 
