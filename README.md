@@ -9,7 +9,7 @@
 # Hii There, Welcome To My Profile 🤪👋
 
 <div>
-  <img align="right" width="40%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
+  <img align="right" width="30%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
 </div>
 
 ### 🧑‍💻 About Me
