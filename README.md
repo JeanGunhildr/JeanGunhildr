@@ -60,12 +60,6 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif" width="30%">
-</p>
-
----
-
 <br>
 
 <h1 align="center">🛠️ Skills</h1>
