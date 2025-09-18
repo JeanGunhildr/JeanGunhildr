@@ -19,9 +19,9 @@ I am a **first-semester college student majoring in Informatics Engineering at J
 ---
 <p align="center">
 
-### Let's Listen to Music w/ Me
+## Let's Listen to Music w/ Me
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" />
 
 </p>
 
