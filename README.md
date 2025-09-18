@@ -111,6 +111,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 ---
 
 <div>
+<div>
   <img align="left" width="49%" src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif">
 </div>
 
@@ -118,7 +119,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
   <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="50%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="50.1%" />
 </p>
-
+</div>
 
 ---
 
