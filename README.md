@@ -16,17 +16,14 @@
 <table>
   <tr>
     <!-- About Me -->
-    <td style="vertical-align: top; width: 50%;" width="50%">
+    <td width="60%">
       <h2>About Me</h2>
       <p>
-        I am a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong><br><br>
-        I have a strong interest in programming and technology. Currently, I am learning the <strong>Python</strong> programming 
-        language and exploring topics in <strong>machine learning and data</strong>.<br><br>
-        I am also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
+        I'm a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong><br><br> I have a strong interest in programming and technology. Currently, I'm learning the <strong>Python</strong> programming language and exploring topics in <strong>machine learning and data</strong>.<br><br>I'm also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
       </p>
     </td>
     <!-- Spotify -->
-    <td style="vertical-align: top; width: 50%; text-align: center;" width="50%">
+    <td width="40%">
       <h2>Let's Listen to Music w/ Me</h2>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="100%" />
     </td>
