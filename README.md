@@ -1,4 +1,4 @@
-![MuhammadRifqi](img/github-header-banner.png)
+<img src="img/github-header-banner.png" alt="MuhammadRifqi" width="100%" />
 
 <br>
 
