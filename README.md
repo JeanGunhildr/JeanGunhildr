@@ -1,6 +1,10 @@
 ![MuhammadRifqi](img/github-header-banner.png)
 
+<br>
+
 # Hii There, Welcome To My Profile 🤪👋
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
@@ -11,7 +15,6 @@
 📌 I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well. 
 
 
-<br> 
 
 ---
 
@@ -47,10 +50,6 @@
 
 <br>
 
----
-
-<br>
-
 
 # 🛠️ Skills
 > ## **Designs :**
@@ -74,13 +73,8 @@
 
 <br>
 
----
-
-<br>
 
 # 🧩 Github Stats
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" alt="Rifqi's GitHub Stats" width="100%" />
 
@@ -88,28 +82,16 @@
 
 <br>
 
-
-<!-- ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeanGunhildr&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
 # ⭐ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<br>
-
----
 
 <br>
 
 # 🤝 Learn Partner 
 ![image](https://img.shields.io/badge/Udemy-AE1BCB?style=for-the-badge&logo=Udemy&logoColor=white) ![image](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-<br>
-
 # 🌐 Social Media
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![link](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
-
-<br>
 
 # 🖼️ Portofolio
 ![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
