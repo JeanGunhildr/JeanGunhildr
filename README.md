@@ -53,6 +53,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 - I enjoy discovering new things 
 
 ---
+
 ![gif](https://tenor.com/view/comfy-emote-vtuber-walking-away-anime-gif-10993942961382401489)
 
 ---
