@@ -8,7 +8,7 @@
 
 # Hii There, Welcome To My Profile 🤪👋
 
-<h3>About Me</h3>
+> ## **🧑‍💻 About Me**
 <p>
 I'm a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong>
 I have a strong interest in programming and technology.
