@@ -19,6 +19,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 <p align="center">
   <img src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
 </p>
+
 ![image](img/github-header-banner.png)
 
 
