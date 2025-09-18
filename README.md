@@ -13,8 +13,8 @@
 </h1>
 <!-- Two-column layout: About Me (left) + Spotify (right) -->
 
-<p height="100%">
-  <h3>Let's listen to music w me</h3>
+<p>
+  <h3 align="right">Let's listen to music w me</h3>
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="40%" />
 </p>
 
