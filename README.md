@@ -9,10 +9,10 @@
 # Hii There, Welcome To My Profile 🤪👋
 
 <div>
-  <img align="right" width="30%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
+  <img align="right" width="40%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
 </div>
 
-> ## **🧑‍💻 About Me**
+### 🧑‍💻 About Me
 <p align="left">
 I'm a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong>
 I have a strong interest in programming and technology.
