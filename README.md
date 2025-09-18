@@ -16,6 +16,10 @@
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 > ## **🧠 Interests** 
 -  Machine Learning   
 -  Web Development   
