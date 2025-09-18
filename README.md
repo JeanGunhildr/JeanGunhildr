@@ -16,11 +16,7 @@ Currently, I'm learning the <strong>Python</strong> programming language and exp
 I'm also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
 </p>
 
-<h4 align="center">🎧 Let's Listen to Music</h4>
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" width="300" />
-</p>
-
+![image](img/github-header-banner.png)
 
 
 ---
