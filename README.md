@@ -9,15 +9,15 @@
 # Hii There, Welcome To My Profile 🤪👋
 
 > ## **🧑‍💻 About Me**
-<p>
+<p align="left">
 I'm a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong>
 I have a strong interest in programming and technology.
 Currently, I'm learning the <strong>Python</strong> programming language and exploring topics in <strong>machine learning and data</strong>.
 I'm also learning <strong>Blender</strong> to create games, and I have a keen interest in <strong>graphic design</strong> as well.
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
+<p>
+  <img align="right" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
 </p>
 
 ![image](img/github-header-banner.png)
