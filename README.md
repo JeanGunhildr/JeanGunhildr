@@ -54,7 +54,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 
 ---
 
-![gif](https://tenor.com/view/comfy-emote-vtuber-walking-away-anime-gif-10993942961382401489)
+![gif](https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif)
 
 ---
 
