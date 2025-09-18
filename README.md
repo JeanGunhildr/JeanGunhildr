@@ -44,7 +44,9 @@
 - I enjoy discovering new things 
 
 <br>
+
 ---
+
 <br>
 
 <picture>
@@ -54,7 +56,9 @@
 </picture>
 
 <br>
+
 ---
+
 <br>
 
 # 🛠️ Skills
@@ -79,7 +83,9 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
+
 ---
+
 <br>
 
 # 🧩 Github Stats
