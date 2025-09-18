@@ -13,17 +13,28 @@
 </h1>
 
 <br>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  
+  <!-- About Me - Left -->
+  <div style="flex: 1;">
+    <h2>About Me</h2>
+    <p>
+      I am a <strong>first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.</strong> 
+      I have a strong interest in programming and technology. Currently, I am learning the <strong>Python</strong> programming 
+      language and exploring topics in <strong>machine learning and data</strong>. I am also learning <strong>Blender</strong> 
+      to create games, and I have a keen interest in <strong>graphic design</strong> as well.
+    </p>
+  </div>
 
-I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well. 
+  <!-- Spotify - Right -->
+  <div style="flex: 1; text-align: center;">
+    <h2>Let's Listen to Music w/ Me</h2>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" 
+         alt="Spotify Now Playing" style="max-width: 100%; height: auto;" />
+  </div>
 
----
-<p align="center">
+</div>
 
-## Let's Listen to Music w/ Me
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317p2r7foru2jrldqlbgklzl53sm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true" />
-
-</p>
 
 
 ---
