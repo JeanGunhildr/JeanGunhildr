@@ -95,10 +95,10 @@
 
 ---
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="50%" align="center"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="50.1%" align="center"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanGunhildr&show_icons=true&theme=radical" width="50%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JeanGunhildr&theme=radical&hide_border=false" width="50.1%" />
+</p>
 
 
 <img src="https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
