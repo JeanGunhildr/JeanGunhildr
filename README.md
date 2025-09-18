@@ -51,9 +51,6 @@
 
 ---
 
-<br>
-
-
 # 🛠️ Skills
 > ## **Designs :**
 
@@ -74,6 +71,8 @@
 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
 <br>
 
 
@@ -86,7 +85,8 @@
 <br>
 
 # ⭐ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=JeanGunhildr&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
+
 
 <br>
 
