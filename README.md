@@ -56,7 +56,9 @@
 
 ---
 
-> ## **Designs :** ![image](https://img.shields.io/badge/Alight%20Motion-57C129?style=for-the-badge&logo=Alight%20Motion&logoColor=white) ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+> ## **Designs :**
+
+![image](https://img.shields.io/badge/Alight%20Motion-57C129?style=for-the-badge&logo=Alight%20Motion&logoColor=white) ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 
 ---
