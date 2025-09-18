@@ -27,12 +27,6 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 
 ---
 
-<div>
-  <img align="right" width="70%" opacity=".8" src="https://images.stockcake.com/public/b/9/a/b9a95f0d-8053-4f51-950e-6c7372a27219_large/dreamy-sky-art-stockcake.jpg">
-</div>
-
-<p align="left">
-
 > ## **🧠 Interests** 
 -  Machine Learning   
 -  Web Development   
@@ -40,8 +34,6 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 -  Graphic Design   
 -  Motion Graphics   
 -  Writing   
-
-</p>
 
 ---
 
