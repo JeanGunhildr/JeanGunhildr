@@ -2,15 +2,14 @@
 
 # Hii There, Welcome To My Profile 🤪👋
 
-📌 I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well. 
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeanGunhildr/JeanGunhildr/output/pacman-contribution-graph.svg">
 </picture>
+
+📌 I am a **first-semester college student majoring in Informatics Engineering at Jenderal Soedirman University.** I have a strong interest in programming and technology. Currently, I am learning the **Python** programming language and exploring topics in **machine learning and data**. I am also learning **Blender** to create games, and I have a keen interest in **graphic design** as well. 
+
 
 <br> 
 
@@ -20,11 +19,6 @@
 
 <img src="img/standard.gif" alt="MuhammadRifqi" width="100%" />
 
-<br>
-
----
-
-<br>
 
 > ## **🧠 Interests** 
 -  Machine Learning   
