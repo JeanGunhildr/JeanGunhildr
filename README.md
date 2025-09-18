@@ -9,7 +9,7 @@
 # Hii There, Welcome To My Profile 🤪👋
 
 <div>
-  <img align="right" width="30%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
+  <img align="right" width="35%" src="https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif">
 </div>
 
 ### 🧑‍💻 About Me
@@ -61,7 +61,7 @@ I'm also learning <strong>Blender</strong> to create games, and I have a keen in
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif">
+  <img src="https://media.tenor.com/mJJU3_4apdEAAAAi/comfy-emote.gif" width="30%">
 </p>
 
 ---
